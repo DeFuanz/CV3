@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  margin: 50px, auto, 0, auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #92817a;
+}
+
+hr {
+  border-style: dotted;
+  border-color: grey;
+  border-top: 10px;
+  width: 7%;
+  border-width: 12px;
+}
+
+.subtitle {
+  font-family: 'Big Shoulders Stencil Text', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #92817a;
+}
+
+.dev {
+  color: red;
+}
+
+.top {
+  background-color: #c6ebc9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.tcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.middle {
+  margin-top: 200px;
+}
+
+h2 {
+  color: red;
+  line-height: 3;
+}
+
+h3 {
+  color: red;
+}
+
+.profile {
+  margin-bottom: 200px;
+}
+
+.profilepic {
+  border-radius: 100%;
+  margin-bottom: 50px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.skills {
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.compic {
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.htmlpic {
+  border-radius: 100%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom {
+  margin-top: 75px;
+  background-color: red;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.bottom a {
+  text-decoration: none;
+  color: grey;
+  margin: 10px 20px;
+}
+
+.bottom a:hover {
+  color: white;
+}
+
+.git {
+  line-height: 3;
+  margin-top: 50px;
+}
+
+.gitp {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  border: 1px solid;
+  border-radius: 10%;
+  padding: 10px;
+  text-decoration: none;
+  background-color: red;
+  color: white;
+}
+
+.btn:hover {
+  background-color: gold;
+}
